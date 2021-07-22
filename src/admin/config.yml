@@ -1,10 +1,8 @@
 backend:
   # Use netlify identity as backend
   name: github
-  branch: potch/netlify-cms-test
-  ### enable below lines for github integration ###
-  # name: github
-  # repo: surjithctly/neat-starter
+  repo: potch/netlify-cms-test
+  branch: master
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
