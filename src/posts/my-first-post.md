@@ -16,6 +16,8 @@ tags:
 
 ###### This is a Heading h6
 
+![BRRRICKFROG](/static/img/brickfrog.png)
+
 ## Emphasis
 
 *This text will be italic*\
